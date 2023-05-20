@@ -106,12 +106,6 @@ if __name__ == "__main__":
     game()
 
 
-# In[4]:
-
-
-print('Hello World!')
-
-
 # In[ ]:
 
 
